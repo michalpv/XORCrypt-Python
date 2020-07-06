@@ -1,4 +1,4 @@
-#XORCrypt V3
+#XORCrypt V4
 #Using xor to encrypt and decrypt files
 #Written by Michael Pavle
 import sys
